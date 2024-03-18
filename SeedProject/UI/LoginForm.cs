@@ -21,7 +21,7 @@ namespace SeedProject.UI
 
         LoginBLL l = new LoginBLL();
         LoginDAL DAL = new LoginDAL();
-       public static string loggedIn;
+        public static string loggedIn;
 
         private void pBoxClose_Click(object sender, EventArgs e)
         {
